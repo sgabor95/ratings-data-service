@@ -8,6 +8,7 @@ class RatingsDataServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+// smt
 	}
 
 }
